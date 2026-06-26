@@ -1,4 +1,9 @@
 {
+"engines": {
+  "node": "20.x"
+},
+
+
   "name": "ai-mock-interview-client",
   "version": "1.0.0",
   "private": true,
