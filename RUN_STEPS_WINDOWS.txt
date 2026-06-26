@@ -1,0 +1,22 @@
+AI Mock Interview Resume Personalized Gemini Edition - Windows Run Steps
+
+1. Extract zip.
+2. Open folder in VS Code.
+3. Start MongoDB locally.
+4. Open terminal in root folder.
+5. Create server/.env from server/.env.example.
+6. Paste your Gemini API key in server/.env.
+7. Run:
+   npm run install-all
+8. Run:
+   npm run dev
+9. Open:
+   http://localhost:5173
+10. Signup/login.
+11. Upload PDF/DOCX/TXT resume or paste resume text.
+12. Start resume-based voice interview.
+13. Allow mic permission.
+14. Answer questions by voice.
+15. Download final resume-based PDF report.
+
+If PDF upload fails, paste resume text manually. Scanned/image resumes cannot be extracted without OCR.
